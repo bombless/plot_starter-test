@@ -1,0 +1,7 @@
+[package]
+name = "plot_starter-test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+plot_starter = "0.34"
