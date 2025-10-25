@@ -2198,9 +2198,9 @@ checksum = "7edddbd0b52d732b21ad9a5fab5c704c14cd949e5e9a1ec5929a24fded1b904c"
 
 [[package]]
 name = "plot_starter"
-version = "0.34.4"
+version = "0.34.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ea426cbfb80ce1d8508a1bc4b990cf4085b2bf8e61e43a25806cce4ee5e1efd5"
+checksum = "5ac18b5ad2e629dc93f7affe778fe01ddf186be536f9087d28d112149633bb84"
 dependencies = [
  "eframe",
  "egui_plot",
